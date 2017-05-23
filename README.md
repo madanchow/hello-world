@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository
+Hello there , I am adding new code here and commiting.
